@@ -158,7 +158,7 @@ Go语言的常量和变量
 常量的定义形式，常量类型范围
 显示：const identifier  [type]  =  value
 隐式：const identifier = value  (通常叫无类型常量)
-常量可以使用额你只表达式定义，例如：len()，usafe,Sizeof()等
+常量可以使用内置表达式定义，例如：len()，usafe,Sizeof()等
 常量范围目前只支持布尔型、数字型（整数型、浮点型和复合型）和字符串型
 
 
